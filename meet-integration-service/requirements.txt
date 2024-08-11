@@ -1,0 +1,5 @@
+google-cloud-pubsub
+google-apps-meet
+google-auth 
+google-auth-oauthlib
+google-cloud-secret-manager
